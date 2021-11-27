@@ -98,7 +98,7 @@ namespace ProjetoFinanceiro
                 message.Subject = subject;
                 message.IsBodyHtml = false; //to make message body as html  
                 message.Body = body;
-                smtp.Port = 587;
+                smtp.Port = port;
                 //smtp.Host = "smtp.gmail.com"; //for gmail host  
                 smtp.Host = host; //for gmail host  
                 smtp.EnableSsl = true;
