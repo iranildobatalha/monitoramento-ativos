@@ -1,0 +1,16 @@
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.exe
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.deps.json
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.runtimeconfig.json
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.runtimeconfig.dev.json
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.dll
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ref\ProjetoFinanceiro.dll
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\bin\Debug\net5.0\ProjetoFinanceiro.pdb
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.csproj.AssemblyReference.cache
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.AssemblyInfoInputs.cache
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.AssemblyInfo.cs
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.dll
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ref\ProjetoFinanceiro.dll
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.pdb
+C:\Users\irani\Desktop\Iranildo\ProjetoFinanceiro\obj\Debug\net5.0\ProjetoFinanceiro.genruntimeconfig.cache

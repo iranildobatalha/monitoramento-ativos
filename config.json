@@ -1,0 +1,8 @@
+{
+    "remetente": "iranildobatalha@gmail.com",
+    "destinatario": "success@simulator.amazonses.com",
+    "host_smtp": "email-smtp.sa-east-1.amazonaws.com",
+    "port_smtp": "587",
+    "user_smtp": "AKIAUKBMMKCHNJ6NG2L2",
+    "pass_smtp": "BG4gLI914Lw9ObgzRTZnl2hEtBDiQFmt1fJd02sdXG2K"
+}

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\irani\\Desktop\\Iranildo\\ProjetoFinanceiro\\ProjetoFinanceiro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\irani\\Desktop\\Iranildo\\ProjetoFinanceiro\\ProjetoFinanceiro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\irani\\Desktop\\Iranildo\\ProjetoFinanceiro\\ProjetoFinanceiro.csproj",
+        "projectName": "ProjetoFinanceiro",
+        "projectPath": "C:\\Users\\irani\\Desktop\\Iranildo\\ProjetoFinanceiro\\ProjetoFinanceiro.csproj",
+        "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\irani\\Desktop\\Iranildo\\ProjetoFinanceiro\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\irani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
