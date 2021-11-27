@@ -30,8 +30,8 @@ namespace ProjetoFinanceiro
         static async Task RunAsync(string ativo, double min, double max)
         {
             string chave = "59WT4TMME4052POX";
-            // replace the "demo" apikey below with your own key from https://www.alphavantage.co/support/#api-key
             
+            // replace the "demo" apikey below with your own key from https://www.alphavantage.co/support/#api-key
             string BASE_ADDRESS = "https://www.alphavantage.co/";
             string GET_URL = $"query?function=GLOBAL_QUOTE&symbol={ativo}.SA&apikey={chave}";
             
@@ -50,7 +50,6 @@ namespace ProjetoFinanceiro
                     string resposta = "";
 
                     double preco = Double.Parse(json_data["Global Quote"]["05. price"].Replace('.', ','));
-                    //Console.WriteLine("Preço: " + preco);
 
                     if (preco < min)
                     {
@@ -62,7 +61,6 @@ namespace ProjetoFinanceiro
                     }
 
                     if(resposta != ""){
-                        //Console.WriteLine(resposta);
                         sendEmail(assunto, resposta);
                     }
                 }
@@ -99,12 +97,10 @@ namespace ProjetoFinanceiro
                 message.IsBodyHtml = false; //to make message body as html  
                 message.Body = body;
                 smtp.Port = port;
-                //smtp.Host = "smtp.gmail.com"; //for gmail host  
                 smtp.Host = host; //for gmail host  
                 smtp.EnableSsl = true;
                 smtp.UseDefaultCredentials = false;
                 smtp.Credentials = new NetworkCredential(user, senha);
-                //smtp.Credentials = new NetworkCredential("iranildobatalha@gmail.com", "Progr4m4dor;");
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtp.Send(message);
                 
